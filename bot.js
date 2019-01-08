@@ -122,7 +122,7 @@ const x5bz4 = [
 
 
 
-var prefix = "-";
+var prefix = "6";
 
 client.on('message', message => {
 if (message.content === "-help") {
